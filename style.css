@@ -1,0 +1,24 @@
+body {
+	background-color: green;
+}
+
+h1 {
+	color: purple;
+	font-size: 80px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+	font-size: 60px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
